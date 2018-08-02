@@ -1,2 +1,2 @@
-var recipe = { pasta: carbonara };
+var recipes = { "pasta": "carbonara" };
 
